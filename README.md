@@ -18,7 +18,7 @@ Programming is something I genuinely enjoy — especially building things, even 
 ## 🧪 Projects
 
 I've built around 10 small personal projects - from simple front-end apps to basic full-stack setups.
-Some of them are available on my [GitHub](https://utopialf.github.io).
+Some of them are available on my [GitHub](https://github.com/utopiaLF).
 
 ## 🎯 About Me
 
