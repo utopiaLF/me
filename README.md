@@ -5,19 +5,20 @@ Programming is something I genuinely enjoy — especially building things, even 
 ## 🚀 What I'm Doing Now
 
 - Working on personal projects
-- Exploring Vue.js more deeply
+- Seeking new opportunities
+- Open to work.
 
 ## 🛠 Tech Stack
 
 - HTML & CSS  
-- JavaScript (Vanilla JS)  
-- Vue.js (currently learning more advanced parts)  
-- Basic Node.js  
-- MySQL  
+- JavaScript 
+- Vue.js
+- Node.js (Express, CORS, JWT, bcrypt, Socket.IO and etc)
+- MySQL
 
 ## 🧪 Projects
 
-I've built around 10 small personal projects - from simple front-end apps to basic full-stack setups.
+I've built around 20 personal projects - from simple front-end apps to full-stack setups
 Some of them are available on my [GitHub](https://github.com/utopiaLF).
 
 ## 🎯 About Me
